@@ -2,7 +2,7 @@
 This project focuses on predicting the selling price of cars using a Linear Regression model. The goal is to estimate vehicle prices based on various features using classical regression techniques and solid preprocessing strategies to ensure accurate and reliable predictions.
 
 ## Dataset
-The dataset (car data.csv) includes a mix of numerical and categorical features related to vehicle specifications, ownership, and seller information. Key preprocessing steps include handling missing values, encoding categorical variables, and scaling numerical features. Outliers were treated using the IQR method to maintain data integrity and improve model performance.
+The dataset (car data.csv) includes a mix of numerical and categorical features related to vehicle specifications, ownership, and seller information. Key preprocessing steps include handling missing values, encoding categorical variables, and scaling numerical features.
 
 ## Key Features
 Year: Year the car was purchased.
